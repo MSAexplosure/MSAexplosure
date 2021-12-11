@@ -2,7 +2,7 @@
 - 👀 I’m interested in chess and table tennis
 - 🌱 I’m currently learning A'levels
 - 💞️ I’m looking to collaborate on VB projects
-- 📫 How to reach me ...
+- 📫 To reach me email on murtazaantaria5253@gmail.com
 
 <!---
 MSAexplosure/MSAexplosure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
