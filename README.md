@@ -1,7 +1,7 @@
 - 👋 Hi, @MSAexplosure here.
 - 👀 My main interests are chess and table tennis.
 - 🌱 Currently focusing on A'levels.
-- 💞️ I’m looking to collaborate on VB projects or making pseudocodes.
+- 💞️ I’m looking to NOT collaborate on VB projects or making pseudocodes.
 - 📫 To contact, email me on murtazaantaria5253@gmail.com
 
 <!---
